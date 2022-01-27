@@ -6,7 +6,6 @@ import Bootstrap from './img/boo.jfif';
 import Reacty from './img/reac.jfif';
 import Nodejs from './img/nodejs.jfif';
 import PHP from './img/PHP.png';
-import Laravel from './img/Laravel.jfif';
 import Wordpress from './img/wordpress.png';
 import Python from './img/python.jfif';
 import Django from './img/django.png';
