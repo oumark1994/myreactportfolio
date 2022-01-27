@@ -18,7 +18,7 @@ const About = () => {
                     <h1 className='about__heading'>About me</h1>
                     <div className='about__meta'>
                     <p className='about__text p__color'>
-                      I am a passionate fullstack developer and entrepeunier with over 5 years experience in the software engineering.My area of expertise are fullstack development and mobile app development.
+                      I am a passionate fullstack developer and entrepreneur  with over 5 years experience in the software engineering.My area of expertise are fullstack development and mobile app development.
                         </p>
                         <p className='about__text p__color'>
                           My passion for new technologies , digital transformation  and its impacts in the future drive me to the field of software engineering.My vision is to change people standard of living through this new technologies and help businessess growth in order to achieve their goals through my expertise and knowlogde in software engineering.
