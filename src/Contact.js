@@ -35,7 +35,7 @@ function Contact() {
                        <input type="text" className="contact name" name='user_name' placeholder="Your name *" />
                        <input type="text" className="contact email" name='user_email' placeholder="Your Email *" />
                        <input type="text" className="contact subject" name='user_subject'  placeholder="Write a Subject" />
-                       <textarea name="message" id="message" name='message' placeholder="Write Your message"></textarea>
+                       <textarea name="message"  name='message' placeholder="Write Your message"/>
                        <button className="btn contact pointer" type="submit">Submit</button>
                        {done && <h2 style={{color:'white'}}>Thank you for contacting us</h2>}
                        </form>
