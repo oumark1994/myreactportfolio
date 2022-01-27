@@ -1,6 +1,5 @@
 import React,{useState} from 'react';
 import './contact.css';
-import axios from 'axios'
 import contactImg from "./img/im5.JPG"
 import {useRef} from 'react'
 import emailjs  from 'emailjs-com'
